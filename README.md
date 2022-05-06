@@ -1,6 +1,6 @@
 # line_break_tag
 
-when ever you use the <br/> element, anthibg following it starts from the next line.<br>
+when ever you use the <br/> element, anything following it starts from the next line.<br>
 
 it is an example of empty element, <br>
 
